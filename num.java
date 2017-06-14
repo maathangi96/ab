@@ -1,4 +1,5 @@
 import java.io.*;
+import java.util.Scanner;
 class num
 {
 public static void main(String args[])
